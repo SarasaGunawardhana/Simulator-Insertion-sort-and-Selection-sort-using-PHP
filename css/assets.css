@@ -1,0 +1,20 @@
+th{
+    font-size:16px;
+}
+td{
+    font-size:14px;
+}
+label{
+  color: #000;
+  font-weight: 600;
+}
+input,select, option{
+  color: #000;
+  font-weight: 600;
+}
+.background-white{
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
